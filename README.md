@@ -1,7 +1,7 @@
 # DogsHouse-Bot
 Bot for https://t.me/dogshouse_bot
 
-More crypto themes and softs in telegram: [tontapgamez](https://t.me/+_xCNXumUNWJkYjAy "Blackhatshiller") 🦧
+More crypto themes and softs in telegram: [tontapgamez](https://t.me/tontapgamez "Blackhatshiller") 🦧
 Additional soft information: https://t.me/tontapgamez
 
 ## Functionality
